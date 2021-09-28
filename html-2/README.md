@@ -1,0 +1,1 @@
+![Ekran görüntüsü](https://github.com/ugurarabaci/patika-dev/tree/main/html-2)
