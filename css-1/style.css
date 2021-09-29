@@ -1,0 +1,25 @@
+header {
+  text-align: center;
+}
+.giris {
+  text-align: center;
+}
+.giris section ol ul {
+    text-align: justify;
+}
+
+.giris section ol ul li{
+    text-align: justify;
+}
+
+.kitaplar{
+    display: flex;  
+    justify-content: space-evenly;
+
+}
+
+.alıntılar{
+
+    justify-content: space-evenly;
+
+}
